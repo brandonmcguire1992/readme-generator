@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # README Generator
   
   ![MIT license badge](https://img.shields.io/badge/license-MIT-green)
@@ -28,3 +29,6 @@
   ## Questions or Concerns
   [brandonmcguire1992@gmail.com](mailto:brandonmcguire1992@gmail.com)
   
+=======
+
+>>>>>>> 4c3f0963fa1fbca3fe163b8f042033d7e3810cae
