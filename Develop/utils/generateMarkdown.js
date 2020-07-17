@@ -19,11 +19,21 @@ function generateMarkdown(data) {
 
   ${description}
 
+  ## Table of Contents
+    *[Installation](#instructions)
+    *[Usage](#usage)
+    *[License](#license)
+    *[Contributions](#contributions)
+
+  
   ## Installation Instructions
   ${instructions}
 
   ## Usage
   ${usage}
+
+  ## License 
+  This project is covered under the ${license} license 
 
   ## Contributions
   ${collabs}
